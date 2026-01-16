@@ -1,9 +1,3 @@
-diff --git a/styles.css b/styles.css
-new file mode 100644
-index 0000000000000000000000000000000000000000..9cb5d89d34ebdc53c01219a1d39ceead0076756e
---- /dev/null
-+++ b/styles.css
-@@ -0,0 +1,131 @@
 +:root {
 +  color-scheme: light;
 +  font-family: "Inter", "Noto Sans JP", system-ui, sans-serif;
